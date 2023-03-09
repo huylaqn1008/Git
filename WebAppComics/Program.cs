@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Configuration;
 
 //Tôi thêm vào đây
+//Chỉnh thêm ở đây
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
