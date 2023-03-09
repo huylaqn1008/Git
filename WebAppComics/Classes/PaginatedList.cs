@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-
+//Lê Tấn Huy commit
 
 namespace WebAppComics.Classes
 {
